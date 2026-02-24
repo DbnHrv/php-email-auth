@@ -1,0 +1,304 @@
+
+================================================================================
+[2026-02-24 11:54:27] Email Sent to: harveydoblon12@gmail.com
+================================================================================
+Subject: Email Verification - Email Authentication System
+
+📌 VERIFICATION CODE (For verification page input):
+   >>> 539b7551597002aaf563a7f3cc2f8a16 <<<
+
+🔗 VERIFICATION LINK (Alternative - Click the link):
+http://localhost/php-email-auth/index.php?action=verify&code=539b7551597002aaf563a7f3cc2f8a16
+
+Email Body:
+
+        <html>
+        <head><title>Email Verification</title></head>
+        <body style='font-family: Arial, sans-serif; color: #333;'>
+            <h2 style='color: #667eea;'>Welcome to Email Authentication System!</h2>
+            <p>Thank you for registering. Please verify your email using the code below:</p>
+            
+            <div style='background: #f0f4ff; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #667eea;'>
+                <p style='margin: 0; color: #999; font-size: 12px;'>Your Verification Code:</p>
+                <p style='margin: 10px 0 0 0; font-size: 28px; font-weight: bold; letter-spacing: 2px; color: #667eea;'>539b7551597002aaf563a7f3cc2f8a16</p>
+            </div>
+            
+            <p style='margin: 20px 0;'><strong>Option 1: Enter Code Manually</strong></p>
+            <ol>
+                <li>Go to: <a href='http://localhost/php-email-auth/index.php?action=verify' style='color: #667eea;'>Verification Page</a></li>
+                <li>Enter the code above</li>
+                <li>Click Verify</li>
+            </ol>
+            
+            <p style='margin: 20px 0;'><strong>Option 2: Click Verification Link</strong></p>
+            <p>Or click the link below to verify directly:</p>
+            <p>
+                <a href='http://localhost/php-email-auth/index.php?action=verify&code=539b7551597002aaf563a7f3cc2f8a16' style='background-color: #667eea; color: white; padding: 12px 25px; text-decoration: none; border-radius: 5px; display: inline-block;'>Verify Account</a>
+            </p>
+            
+            <hr style='border: none; border-top: 1px solid #ddd; margin: 20px 0;'>
+            <p style='color: #999; font-size: 12px;'>If you did not register for this account, please ignore this email.</p>
+        </body>
+        </html>
+        
+================================================================================
+
+================================================================================
+[2026-02-24 12:09:37] Email Sent to: doblonharvey12@gmail.com
+================================================================================
+Subject: Email Verification - Email Authentication System
+
+📌 VERIFICATION CODE (For verification page input):
+   >>> 7fa793893280c85dbe77a195e6f89428 <<<
+
+🔗 VERIFICATION LINK (Alternative - Click the link):
+http://localhost/php-email-auth/index.php?action=verify&code=7fa793893280c85dbe77a195e6f89428
+
+Email Body:
+
+        <html>
+        <head><title>Email Verification</title></head>
+        <body style='font-family: Arial, sans-serif; color: #333; background-color: #f5f5f5; margin: 0; padding: 20px;'>
+            <div style='max-width: 600px; margin: 0 auto; background-color: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);'>
+                <h2 style='color: #667eea; margin-top: 0;'>Welcome to Email Authentication System!</h2>
+                <p>Hello <strong>doblonharvey12@gmail.com</strong>,</p>
+                <p>Thank you for registering. Please verify your email address to activate your account.</p>
+                
+                <div style='background: #f0f4ff; padding: 25px; border-radius: 8px; margin: 25px 0; border-left: 5px solid #667eea; text-align: center;'>
+                    <p style='margin: 0; color: #999; font-size: 13px; text-transform: uppercase; letter-spacing: 1px;'>Your Verification Code</p>
+                    <p style='margin: 15px 0 0 0; font-size: 32px; font-weight: bold; letter-spacing: 3px; color: #667eea; font-family: monospace;'>7FA793893280C85DBE77A195E6F89428</p>
+                </div>
+                
+                <p style='margin: 25px 0 15px 0;'><strong>✅ Quickest Way to Verify:</strong></p>
+                <div style='text-align: center; margin: 20px 0;'>
+                    <a href='http://localhost/php-email-auth/index.php?action=verify&code=7fa793893280c85dbe77a195e6f89428' style='background-color: #667eea; color: white; padding: 14px 30px; text-decoration: none; border-radius: 5px; display: inline-block; font-weight: bold; font-size: 16px;'>Verify Email Now</a>
+                </div>
+                
+                <p style='margin: 25px 0 15px 0;'><strong>🔐 Alternative Method (Manual Code Entry):</strong></p>
+                <ol style='margin: 10px 0;'>
+                    <li>Go to: <a href='http://localhost/php-email-auth/index.php?action=verify' style='color: #667eea;'>http://localhost/php-email-auth/index.php?action=verify</a></li>
+                    <li>Enter your verification code: <strong style='font-family: monospace;'>7FA793893280C85DBE77A195E6F89428</strong></li>
+                    <li>Click the Verify button</li>
+                </ol>
+                
+                <hr style='border: none; border-top: 1px solid #ddd; margin: 25px 0;'>
+                <p style='color: #666; font-size: 13px;'>
+                    <strong>Security Note:</strong> This verification link will expire in 24 hours. If you did not create this account, please ignore this email.
+                </p>
+                <p style='color: #999; font-size: 12px; margin: 15px 0 0 0;'>
+                    Email Authentication System | 2026<br>
+                    If you have any questions, please contact our support team.
+                </p>
+            </div>
+        </body>
+        </html>
+        
+================================================================================
+
+================================================================================
+[2026-02-24 12:18:03] Email Sent to: doblonharvey12@gmail.com
+================================================================================
+Subject: Email Verification - Email Authentication System
+
+📌 VERIFICATION CODE (For verification page input):
+   >>> 06c9fcb025215223d6a12d8e0f4e6d63 <<<
+
+🔗 VERIFICATION LINK (Alternative - Click the link):
+http://localhost/php-email-auth/index.php?action=verify&code=06c9fcb025215223d6a12d8e0f4e6d63
+
+Email Body:
+
+        <html>
+        <head><title>Email Verification</title></head>
+        <body style='font-family: Arial, sans-serif; color: #333; background-color: #f5f5f5; margin: 0; padding: 20px;'>
+            <div style='max-width: 600px; margin: 0 auto; background-color: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);'>
+                <h2 style='color: #667eea; margin-top: 0;'>Welcome to Email Authentication System!</h2>
+                <p>Hello <strong>doblonharvey12@gmail.com</strong>,</p>
+                <p>Thank you for registering. Please verify your email address to activate your account.</p>
+                
+                <div style='background: #f0f4ff; padding: 25px; border-radius: 8px; margin: 25px 0; border-left: 5px solid #667eea; text-align: center;'>
+                    <p style='margin: 0; color: #999; font-size: 13px; text-transform: uppercase; letter-spacing: 1px;'>Your Verification Code</p>
+                    <p style='margin: 15px 0 0 0; font-size: 32px; font-weight: bold; letter-spacing: 3px; color: #667eea; font-family: monospace;'>06C9FCB025215223D6A12D8E0F4E6D63</p>
+                </div>
+                
+                <p style='margin: 25px 0 15px 0;'><strong>✅ Quickest Way to Verify:</strong></p>
+                <div style='text-align: center; margin: 20px 0;'>
+                    <a href='http://localhost/php-email-auth/index.php?action=verify&code=06c9fcb025215223d6a12d8e0f4e6d63' style='background-color: #667eea; color: white; padding: 14px 30px; text-decoration: none; border-radius: 5px; display: inline-block; font-weight: bold; font-size: 16px;'>Verify Email Now</a>
+                </div>
+                
+                <p style='margin: 25px 0 15px 0;'><strong>🔐 Alternative Method (Manual Code Entry):</strong></p>
+                <ol style='margin: 10px 0;'>
+                    <li>Go to: <a href='http://localhost/php-email-auth/index.php?action=verify' style='color: #667eea;'>http://localhost/php-email-auth/index.php?action=verify</a></li>
+                    <li>Enter your verification code: <strong style='font-family: monospace;'>06C9FCB025215223D6A12D8E0F4E6D63</strong></li>
+                    <li>Click the Verify button</li>
+                </ol>
+                
+                <hr style='border: none; border-top: 1px solid #ddd; margin: 25px 0;'>
+                <p style='color: #666; font-size: 13px;'>
+                    <strong>Security Note:</strong> This verification link will expire in 24 hours. If you did not create this account, please ignore this email.
+                </p>
+                <p style='color: #999; font-size: 12px; margin: 15px 0 0 0;'>
+                    Email Authentication System | 2026<br>
+                    If you have any questions, please contact our support team.
+                </p>
+            </div>
+        </body>
+        </html>
+        
+================================================================================
+
+================================================================================
+[2026-02-24 12:21:35] Email Sent to: doblonharvey12@gmail.com
+================================================================================
+Subject: Email Verification - Email Authentication System
+
+📌 VERIFICATION CODE (For verification page input):
+   >>> 09b134fa1815f00e0d7477344ea82124 <<<
+
+🔗 VERIFICATION LINK (Alternative - Click the link):
+http://localhost/php-email-auth/index.php?action=verify&code=09b134fa1815f00e0d7477344ea82124
+
+Email Body:
+
+        <html>
+        <head><title>Email Verification</title></head>
+        <body style='font-family: Arial, sans-serif; color: #333; background-color: #f5f5f5; margin: 0; padding: 20px;'>
+            <div style='max-width: 600px; margin: 0 auto; background-color: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);'>
+                <h2 style='color: #667eea; margin-top: 0;'>Welcome to Email Authentication System!</h2>
+                <p>Hello <strong>doblonharvey12@gmail.com</strong>,</p>
+                <p>Thank you for registering. Please verify your email address to activate your account.</p>
+                
+                <div style='background: #f0f4ff; padding: 25px; border-radius: 8px; margin: 25px 0; border-left: 5px solid #667eea; text-align: center;'>
+                    <p style='margin: 0; color: #999; font-size: 13px; text-transform: uppercase; letter-spacing: 1px;'>Your Verification Code</p>
+                    <p style='margin: 15px 0 0 0; font-size: 32px; font-weight: bold; letter-spacing: 3px; color: #667eea; font-family: monospace;'>09B134FA1815F00E0D7477344EA82124</p>
+                </div>
+                
+                <p style='margin: 25px 0 15px 0;'><strong>✅ Quickest Way to Verify:</strong></p>
+                <div style='text-align: center; margin: 20px 0;'>
+                    <a href='http://localhost/php-email-auth/index.php?action=verify&code=09b134fa1815f00e0d7477344ea82124' style='background-color: #667eea; color: white; padding: 14px 30px; text-decoration: none; border-radius: 5px; display: inline-block; font-weight: bold; font-size: 16px;'>Verify Email Now</a>
+                </div>
+                
+                <p style='margin: 25px 0 15px 0;'><strong>🔐 Alternative Method (Manual Code Entry):</strong></p>
+                <ol style='margin: 10px 0;'>
+                    <li>Go to: <a href='http://localhost/php-email-auth/index.php?action=verify' style='color: #667eea;'>http://localhost/php-email-auth/index.php?action=verify</a></li>
+                    <li>Enter your verification code: <strong style='font-family: monospace;'>09B134FA1815F00E0D7477344EA82124</strong></li>
+                    <li>Click the Verify button</li>
+                </ol>
+                
+                <hr style='border: none; border-top: 1px solid #ddd; margin: 25px 0;'>
+                <p style='color: #666; font-size: 13px;'>
+                    <strong>Security Note:</strong> This verification link will expire in 24 hours. If you did not create this account, please ignore this email.
+                </p>
+                <p style='color: #999; font-size: 12px; margin: 15px 0 0 0;'>
+                    Email Authentication System | 2026<br>
+                    If you have any questions, please contact our support team.
+                </p>
+            </div>
+        </body>
+        </html>
+        
+================================================================================
+
+================================================================================
+[2026-02-24 12:30:33] Email Sent to: doblonharvey12@gmail.com
+================================================================================
+Subject: Email Verification - Email Authentication System
+
+📌 VERIFICATION CODE (For verification page input):
+   >>> 457e172e6ef1ed2ff86c82f26f63e134 <<<
+
+🔗 VERIFICATION LINK (Alternative - Click the link):
+http://localhost/php-email-auth/index.php?action=verify&code=457e172e6ef1ed2ff86c82f26f63e134
+
+Email Body:
+
+        <html>
+        <head><title>Email Verification</title></head>
+        <body style='font-family: Arial, sans-serif; color: #333; background-color: #f5f5f5; margin: 0; padding: 20px;'>
+            <div style='max-width: 600px; margin: 0 auto; background-color: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);'>
+                <h2 style='color: #667eea; margin-top: 0;'>Welcome to Email Authentication System!</h2>
+                <p>Hello <strong>doblonharvey12@gmail.com</strong>,</p>
+                <p>Thank you for registering. Please verify your email address to activate your account.</p>
+                
+                <div style='background: #f0f4ff; padding: 25px; border-radius: 8px; margin: 25px 0; border-left: 5px solid #667eea; text-align: center;'>
+                    <p style='margin: 0; color: #999; font-size: 13px; text-transform: uppercase; letter-spacing: 1px;'>Your Verification Code</p>
+                    <p style='margin: 15px 0 0 0; font-size: 32px; font-weight: bold; letter-spacing: 3px; color: #667eea; font-family: monospace;'>457E172E6EF1ED2FF86C82F26F63E134</p>
+                </div>
+                
+                <p style='margin: 25px 0 15px 0;'><strong>✅ Quickest Way to Verify:</strong></p>
+                <div style='text-align: center; margin: 20px 0;'>
+                    <a href='http://localhost/php-email-auth/index.php?action=verify&code=457e172e6ef1ed2ff86c82f26f63e134' style='background-color: #667eea; color: white; padding: 14px 30px; text-decoration: none; border-radius: 5px; display: inline-block; font-weight: bold; font-size: 16px;'>Verify Email Now</a>
+                </div>
+                
+                <p style='margin: 25px 0 15px 0;'><strong>🔐 Alternative Method (Manual Code Entry):</strong></p>
+                <ol style='margin: 10px 0;'>
+                    <li>Go to: <a href='http://localhost/php-email-auth/index.php?action=verify' style='color: #667eea;'>http://localhost/php-email-auth/index.php?action=verify</a></li>
+                    <li>Enter your verification code: <strong style='font-family: monospace;'>457E172E6EF1ED2FF86C82F26F63E134</strong></li>
+                    <li>Click the Verify button</li>
+                </ol>
+                
+                <hr style='border: none; border-top: 1px solid #ddd; margin: 25px 0;'>
+                <p style='color: #666; font-size: 13px;'>
+                    <strong>Security Note:</strong> This verification link will expire in 24 hours. If you did not create this account, please ignore this email.
+                </p>
+                <p style='color: #999; font-size: 12px; margin: 15px 0 0 0;'>
+                    Email Authentication System | 2026<br>
+                    If you have any questions, please contact our support team.
+                </p>
+            </div>
+        </body>
+        </html>
+        
+================================================================================
+
+================================================================================
+[2026-02-24 12:35:52] Email Sent to: doblonharvey12@gmail.com
+================================================================================
+Subject: Email Verification - Email Authentication System
+
+📌 VERIFICATION CODE (For verification page input):
+   >>> 459355318f8a0f67e5272b4d0922c0f7 <<<
+
+🔗 VERIFICATION LINK (Alternative - Click the link):
+http://localhost/php-email-auth/index.php?action=verify&code=459355318f8a0f67e5272b4d0922c0f7
+
+Email Body:
+
+        <html>
+        <head><title>Email Verification</title></head>
+        <body style='font-family: Arial, sans-serif; color: #333; background-color: #f5f5f5; margin: 0; padding: 20px;'>
+            <div style='max-width: 600px; margin: 0 auto; background-color: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);'>
+                <h2 style='color: #667eea; margin-top: 0;'>Welcome to Email Authentication System!</h2>
+                <p>Hello <strong>doblonharvey12@gmail.com</strong>,</p>
+                <p>Thank you for registering. Please verify your email address to activate your account.</p>
+                
+                <div style='background: #f0f4ff; padding: 25px; border-radius: 8px; margin: 25px 0; border-left: 5px solid #667eea; text-align: center;'>
+                    <p style='margin: 0; color: #999; font-size: 13px; text-transform: uppercase; letter-spacing: 1px;'>Your Verification Code</p>
+                    <p style='margin: 15px 0 0 0; font-size: 32px; font-weight: bold; letter-spacing: 3px; color: #667eea; font-family: monospace;'>459355318F8A0F67E5272B4D0922C0F7</p>
+                </div>
+                
+                <p style='margin: 25px 0 15px 0;'><strong>✅ Quickest Way to Verify:</strong></p>
+                <div style='text-align: center; margin: 20px 0;'>
+                    <a href='http://localhost/php-email-auth/index.php?action=verify&code=459355318f8a0f67e5272b4d0922c0f7' style='background-color: #667eea; color: white; padding: 14px 30px; text-decoration: none; border-radius: 5px; display: inline-block; font-weight: bold; font-size: 16px;'>Verify Email Now</a>
+                </div>
+                
+                <p style='margin: 25px 0 15px 0;'><strong>🔐 Alternative Method (Manual Code Entry):</strong></p>
+                <ol style='margin: 10px 0;'>
+                    <li>Go to: <a href='http://localhost/php-email-auth/index.php?action=verify' style='color: #667eea;'>http://localhost/php-email-auth/index.php?action=verify</a></li>
+                    <li>Enter your verification code: <strong style='font-family: monospace;'>459355318F8A0F67E5272B4D0922C0F7</strong></li>
+                    <li>Click the Verify button</li>
+                </ol>
+                
+                <hr style='border: none; border-top: 1px solid #ddd; margin: 25px 0;'>
+                <p style='color: #666; font-size: 13px;'>
+                    <strong>Security Note:</strong> This verification link will expire in 24 hours. If you did not create this account, please ignore this email.
+                </p>
+                <p style='color: #999; font-size: 12px; margin: 15px 0 0 0;'>
+                    Email Authentication System | 2026<br>
+                    If you have any questions, please contact our support team.
+                </p>
+            </div>
+        </body>
+        </html>
+        
+================================================================================
