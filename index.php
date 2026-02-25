@@ -30,8 +30,7 @@ switch ($action) {
             } elseif (isset($_POST['email'])) {
                 // User requesting resend
                 $email = $_POST['email'] ?? '';
-                $message = $auth->resendVerificationEmail($email);
-            }
+                $message = 'Resend verification email functionality not yet implemented';}
         }
         // Handle GET from email link
         elseif (isset($_GET['code'])) {
